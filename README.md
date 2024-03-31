@@ -2,6 +2,10 @@
 
 🚀 I am a passionate software engineer who aspires to learn and constantly improve myself!
 
+# 🌐 Contact me via:
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skanderoo123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skander-afi/)
+
 # 💻 Technical Skills:
 
 ## Programming Languages and Frameworks:
